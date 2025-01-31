@@ -8,6 +8,7 @@ This Python program organizes and sorts photos, videos, and other media files ba
 - **Supports multiple file formats**: Handles `.jpg`, `.jpeg`, `.png`, `.mp4`, `.mov`, `.aae`, and more.
 - **EXIF support**: Uses EXIF metadata to determine the date a photo was taken. If EXIF data is not available, it uses the file modification date.
 - **Recursive sorting**: Can recursively sort files in subfolders.
+- **Multiple language support**: Currently, English and Turkish are supported.
 
 ## Installation
 If you are using the `.exe` and `.app` for Windows and Mac respectively, just installing them is enough.
